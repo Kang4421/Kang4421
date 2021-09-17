@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kang4421
+- 👀 I will put the Python made for practice.
